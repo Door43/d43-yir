@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yir:home|Door43 (yir)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yir|d43-yir repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yir/archive/master.zip|d43-yir.zip]]
+
+**Recent Changes**
+{{changes>ns = yir}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yir|Ethnologue data]]
+
